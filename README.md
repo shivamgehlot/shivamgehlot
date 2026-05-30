@@ -1,43 +1,20 @@
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgehlot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamgehlot)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivamgehlot)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgehlot@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgehlot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamgehlot)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgehlot@gmail.com)
 
 # Heyya, I'm Shivam 👋
 
 ---
 
-**B.Tech CSE (AI & ML) @ Acropolis Institute of Technology & Research '27 | ML & LLM Systems Builder | 450+ DSA Problems**
+**B.Tech CSE (AI & ML) @ Acropolis Institute of Technology & Research '27 | AI/ML Engineer**
 
 ---
 
-I'm currently in my second year of Bachelor's of Technology. I'm keen to work on Machine Learning, Data Analysis, and AI Systems projects. I have hands-on experience in programming languages Python, Java, and C++. I have built multiple projects involving LLMs, RAG pipelines, and machine learning algorithms. I have solved over 450 problems on various coding platforms like LeetCode and GeeksforGeeks. I'm currently learning MLOps, multi-agent workflows, and advanced NLP. My skillset includes machine learning, deep learning, natural language processing, data structures and algorithms, object-oriented programming, and backend development.
+I'm currently in my third year of Bachelor's of Technology. I'm keen to work on Machine Learning, Data Analysis, and AI Systems projects. I have hands-on experience in programming languages Python, Java, and SQL. I have built multiple projects involving LLMs, RAG pipelines, and machine learning algorithms. I have solved over 450 problems on various coding platforms like LeetCode and GeeksforGeeks. I'm currently learning MLOps, multi-agent workflows, and advanced NLP. My skillset includes machine learning, deep learning, natural language processing, data structures and algorithms, object-oriented programming, and backend development.
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-### 🔮 [Stock Agent — AI-Based Stock Forecasting & Analytics](https://github.com/shivamgehlot/Stock-Agent)
-`Python` `PyTorch` `LangGraph` `FastAPI` `Redis` `MLflow` `Docker`
-- Built an LSTM-based transfer learning model on 20+ years of S&P 500 data, reducing per-ticker training time by **40%**
-- Architected a production ML backend with FastAPI, Redis, MLflow & Feast for real-time inference and experiment tracking
-- Developed an LLM-powered multi-agent workflow (LangGraph) generating structured financial reports from live news + predictions
-
-### ⚖️ [NyayAI — Legal RAG Chatbot (BNS)](https://github.com/shivamgehlot/NyayAI)
-`Python` `LangChain` `Qdrant` `Llama 3.3` `HuggingFace` `Streamlit` `RAGAS`
-- Built a RAG-based legal chatbot for Indian criminal law with vector retrieval and multi-source search
-- Implemented recursive chunking + FlashrankRerank for improved retrieval quality
-- Added Qdrant semantic caching (cosine similarity 0.7) to cut redundant LLM calls and reduce latency
-
-### 🎬 [VisionBrief — AI-Powered Video Summarization](https://github.com/shivamgehlot/VisionBrief)
-`Python` `faster-whisper` `Groq LLM` `Sentence-Transformers` `FFmpeg` `MoviePy`
-- End-to-end pipeline converting long videos into narrated summary videos using Whisper + Groq LLM
-- Semantic clip matching via sentence-transformers with contextual window cosine similarity
-- Parallel TTS generation + embedding caching achieved **60% faster** processing time
 
 ---
 

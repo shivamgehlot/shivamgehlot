@@ -1,19 +1,19 @@
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-shivamgehlot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgehlot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam_Gehlot-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamgehlot)
-[![LeetCode](https://img.shields.io/badge/LeetCode-shivamgehlot-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivamgehlot)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgehlot@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivamgehlot)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamgehlot)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shivamgehlot)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamgehlot@gmail.com)
 
-# Hey, I'm Shivam 👋
-
----
-
-**AI/ML Undergrad @ Acropolis Institute of Technology & Research '27 | ML & LLM Systems Builder | 450+ DSA Problems**
+# Heyya, I'm Shivam 👋
 
 ---
 
-I'm a Computer Science (AI & ML) undergrad passionate about building intelligent systems — from production ML pipelines to LLM-powered agents. I work extensively with Python, PyTorch, and LangChain, and have shipped real projects in stock forecasting, legal AI, and video summarization. Currently diving deeper into MLOps, RAG architectures, and multi-agent workflows.
+**B.Tech CSE (AI & ML) @ Acropolis Institute of Technology & Research '27 | ML & LLM Systems Builder | 450+ DSA Problems**
+
+---
+
+I'm currently in my second year of Bachelor's of Technology. I'm keen to work on Machine Learning, Data Analysis, and AI Systems projects. I have hands-on experience in programming languages Python, Java, and C++. I have built multiple projects involving LLMs, RAG pipelines, and machine learning algorithms. I have solved over 450 problems on various coding platforms like LeetCode and GeeksforGeeks. I'm currently learning MLOps, multi-agent workflows, and advanced NLP. My skillset includes machine learning, deep learning, natural language processing, data structures and algorithms, object-oriented programming, and backend development.
 
 </div>
 
